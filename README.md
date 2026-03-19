@@ -78,7 +78,7 @@ fn main() -> ! {
 
 ## Documentation
 
-For detailed documentation, visit [docs.rs/dht20](https://docs.rs/dht20).
+For detailed documentation, visit [docs.rs/dht20](https://docs.rs/dht20-rs).
 
 ## License
 
