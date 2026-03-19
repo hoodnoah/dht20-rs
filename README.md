@@ -14,7 +14,7 @@ Add `dht20` to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-dht20-rs = {version = "0.1.0"}
+dht20-rs = {version = "0.3.0"}
 ```
 
 Then, include it in your project:
